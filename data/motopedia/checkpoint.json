@@ -1,203 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T18:44:36.064Z",
+  "updatedAt": "2026-09-08T21:54:23.424Z",
   "queue": [
-    {
-      "url": "https://www.supercrosslive.com/news/eli-tomac-to-retire-at-the-conclusion-of-the-2026-smx-post-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": 2026,
-      "score": 44
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/ken-roczen-returns-to-suzuki-for-2026-smx-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": 2026,
-      "score": 44
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/watch-smx-2026-season-preview-show/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": 2026,
-      "score": 44
-    },
-    {
-      "url": "https://www.supercrosslive.com/2026-track-maps/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": 2026,
-      "score": 31
-    },
-    {
-      "url": "https://www.supercrosslive.com/slc-2026-survey-sweepstakes-rules/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": 2026,
-      "score": 31
-    },
-    {
-      "url": "https://racerxonline.com/archive",
-      "sourceKey": "racerx",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 38
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/adam-cianciarulo-announces-retirement-from-professional-racing-following-supercross-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/chris-blose-joins-kawasaki-for-250-east-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/colt-nichols-joins-honda-for-450-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/elbow-fracture-sidelines-plessinger-for-remainder-of-supercross-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/ferrandis-aiming-to-return-by-end-of-supercross-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/forkner-to-miss-remainder-of-supercross-season-due-to-injury/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/gift-supercross-tickets-this-holiday-season-with-a-printable-certificate/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/how-to-watch-supercross-season-opener-from-anaheim/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/musquin-out-for-remainder-of-supercross-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/new-symbol-new-season-tickets-on-presale-now/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/plessinger-suffers-broken-arm-in-practice-likely-out-for-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/shimoda-sidelined-for-opening-rounds-of-250-east-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/smx-insider-episode-48-silly-season/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/smx-insider-episode-59-the-season-starts-at-daytona/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/smx-insider-monster-energy-supercross-season-in-review/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/smx-insider-off-season-special/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/smx-insider-silly-season-update/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/smx-insider-supercross-season-in-review/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/smx-insider-the-season-so-far/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/supercross-racer-turns-setback-into-season-defining-ride/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/supercross-series-delivers-a-season-of-groundbreaking-firsts/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
-    {
-      "url": "https://www.supercrosslive.com/news/supermotocross-hits-midway-point-as-pro-motocross-begins-this-weekend/",
-      "sourceKey": "supercrosslive",
-      "discoveredAt": "2026-09-08T09:44:52.561Z",
-      "yearHint": null,
-      "score": 29
-    },
     {
       "url": "https://www.supercrosslive.com/news/the-eve-of-the-monster-energy-supercross-season-opener/",
       "sourceKey": "supercrosslive",
@@ -2476,138 +2280,138 @@
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/ken-roczen-returns-to-suzuki-for-2026-smx-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:05.072Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:41.534Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/watch-smx-2026-season-preview-show/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:06.817Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:43.255Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/2026-track-maps/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:07.831Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:44.218Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/slc-2026-survey-sweepstakes-rules/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:08.806Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:45.922Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://racerxonline.com/archive": {
-      "attempts": 202,
-      "lastAttemptAt": "2026-09-08T04:43:10.685Z",
+      "attempts": 203,
+      "lastAttemptAt": "2026-09-08T21:53:47.773Z",
       "error": "404 Not Found"
     },
     "https://www.supercrosslive.com/news/adam-cianciarulo-announces-retirement-from-professional-racing-following-supercross-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:11.676Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:49.423Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/chris-blose-joins-kawasaki-for-250-east-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:12.676Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:51.032Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/colt-nichols-joins-honda-for-450-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:14.348Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:52.709Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/elbow-fracture-sidelines-plessinger-for-remainder-of-supercross-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:15.946Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:54.375Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/ferrandis-aiming-to-return-by-end-of-supercross-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:17.638Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:55.881Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/forkner-to-miss-remainder-of-supercross-season-due-to-injury/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:19.272Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:53:57.492Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/gift-supercross-tickets-this-holiday-season-with-a-printable-certificate/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:21.611Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:00.037Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/how-to-watch-supercross-season-opener-from-anaheim/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:23.178Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:01.644Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/musquin-out-for-remainder-of-supercross-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:25.031Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:03.276Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/new-symbol-new-season-tickets-on-presale-now/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:26.667Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:04.269Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/plessinger-suffers-broken-arm-in-practice-likely-out-for-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:28.336Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:05.956Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/shimoda-sidelined-for-opening-rounds-of-250-east-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:29.994Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:07.509Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/smx-insider-episode-48-silly-season/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:31.667Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:09.187Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/smx-insider-episode-59-the-season-starts-at-daytona/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:33.260Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:10.808Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/smx-insider-monster-energy-supercross-season-in-review/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:34.942Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:12.530Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/smx-insider-off-season-special/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:36.609Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:14.103Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/smx-insider-silly-season-update/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:38.269Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:15.784Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/smx-insider-supercross-season-in-review/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:39.986Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:16.728Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/smx-insider-the-season-so-far/": {
-      "attempts": 198,
-      "lastAttemptAt": "2026-09-08T04:43:41.000Z",
+      "attempts": 199,
+      "lastAttemptAt": "2026-09-08T21:54:18.383Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/supercross-racer-turns-setback-into-season-defining-ride/": {
-      "attempts": 197,
-      "lastAttemptAt": "2026-09-08T04:43:42.733Z",
+      "attempts": 198,
+      "lastAttemptAt": "2026-09-08T21:54:19.928Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/supercross-series-delivers-a-season-of-groundbreaking-firsts/": {
-      "attempts": 197,
-      "lastAttemptAt": "2026-09-08T04:43:43.739Z",
+      "attempts": 198,
+      "lastAttemptAt": "2026-09-08T21:54:20.934Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/supermotocross-hits-midway-point-as-pro-motocross-begins-this-weekend/": {
-      "attempts": 197,
-      "lastAttemptAt": "2026-09-08T04:43:45.323Z",
+      "attempts": 198,
+      "lastAttemptAt": "2026-09-08T21:54:22.524Z",
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/the-eve-of-the-monster-energy-supercross-season-opener/": {
@@ -2636,72 +2440,72 @@
       "error": "Page did not contain durable historical result metadata"
     },
     "https://www.supercrosslive.com/news/eli-tomac-to-retire-at-the-conclusion-of-the-2026-smx-post-season/": {
-      "attempts": 11,
-      "lastAttemptAt": "2026-09-08T04:43:04.120Z",
+      "attempts": 12,
+      "lastAttemptAt": "2026-09-08T21:53:39.970Z",
       "error": "Page did not contain durable historical result metadata"
     }
   },
   "sitemaps": {
     "https://racerxonline.com/sitemap.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:28.726Z",
+      "checkedAt": "2026-09-08T21:53:19.110Z",
       "error": "404 Not Found"
     },
     "https://racerxonline.com/sitemap_index.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:30.559Z",
+      "checkedAt": "2026-09-08T21:53:20.910Z",
       "error": "404 Not Found"
     },
     "https://racerxonline.com/sitemap-index.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:32.397Z",
+      "checkedAt": "2026-09-08T21:53:22.713Z",
       "error": "404 Not Found"
     },
     "racerx": {
       "ok": true,
-      "checkedAt": "2026-09-08T18:43:33.297Z",
+      "checkedAt": "2026-09-08T21:53:23.613Z",
       "sitemapCount": 3,
       "candidateCount": 2
     },
     "https://vault.racerxonline.com/sitemap.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:34.526Z",
+      "checkedAt": "2026-09-08T21:53:24.786Z",
       "error": "404 Not Found"
     },
     "https://vault.racerxonline.com/sitemap_index.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:36.360Z",
+      "checkedAt": "2026-09-08T21:53:26.602Z",
       "error": "404 Not Found"
     },
     "https://vault.racerxonline.com/sitemap-index.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:38.187Z",
+      "checkedAt": "2026-09-08T21:53:28.434Z",
       "error": "404 Not Found"
     },
     "racerx-vault": {
       "ok": true,
-      "checkedAt": "2026-09-08T18:43:39.088Z",
+      "checkedAt": "2026-09-08T21:53:29.334Z",
       "sitemapCount": 3,
       "candidateCount": 1
     },
     "https://llvault.racerxonline.com/sitemap.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:40.322Z",
+      "checkedAt": "2026-09-08T21:53:30.118Z",
       "error": "404 Not Found"
     },
     "https://llvault.racerxonline.com/sitemap_index.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:42.154Z",
+      "checkedAt": "2026-09-08T21:53:31.749Z",
       "error": "404 Not Found"
     },
     "https://llvault.racerxonline.com/sitemap-index.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:43.985Z",
+      "checkedAt": "2026-09-08T21:53:33.378Z",
       "error": "404 Not Found"
     },
     "racerx-llvault": {
       "ok": true,
-      "checkedAt": "2026-09-08T18:43:44.885Z",
+      "checkedAt": "2026-09-08T21:53:34.278Z",
       "sitemapCount": 3,
       "candidateCount": 1
     },
@@ -2718,25 +2522,25 @@
     },
     "https://promotocross.com/sitemap.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:46.144Z",
+      "checkedAt": "2026-09-08T21:53:35.268Z",
       "error": "404 Not Found"
     },
     "https://promotocross.com/sitemap_index.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:47.997Z",
+      "checkedAt": "2026-09-08T21:53:37.064Z",
       "error": "404 Not Found"
     },
     "https://promotocross.com/sitemap-index.xml": {
       "ok": false,
-      "checkedAt": "2026-09-08T18:43:49.834Z",
+      "checkedAt": "2026-09-08T21:53:38.866Z",
       "error": "404 Not Found"
     },
     "promotocross": {
       "ok": true,
-      "checkedAt": "2026-09-08T18:43:50.734Z",
+      "checkedAt": "2026-09-08T21:53:39.766Z",
       "sitemapCount": 3,
       "candidateCount": 1
     }
   },
-  "cursor": 22931
+  "cursor": 22959
 }
